@@ -1,5 +1,7 @@
 ### Oi! Eu sou Franklin Ramos 👋
 
+ Estudante de Desensolvimento Web na Trybe
+
 <br>
  <div>
   <a href="https://github.com/franklinrms">
@@ -11,7 +13,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Franklin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Franklin-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Franklin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Franklin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Franklin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

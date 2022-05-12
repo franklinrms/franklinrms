@@ -1,6 +1,6 @@
 <!-- <br> -->
 
-### Oi! Eu sou Franklin Ramos 👋
+### Oi! Eu sou Franklin Ramos <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20em">
 
 Eu soluciono problemas escrevendo códigos, programação é uma aventura e me proporciona muitas descobertas no dia a dia. A cada projeto, eu absorvo conhecimentos que impulsionam meu trabalho para novos horizontes, sempre colocando qualidade em primeiro lugar.
 

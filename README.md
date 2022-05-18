@@ -1,5 +1,3 @@
-<!-- <br> -->
-
 ### Oi! Eu sou Franklin Ramos <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20em">
 
 Eu soluciono problemas escrevendo códigos, programação é uma aventura e me proporciona muitas descobertas no dia a dia. A cada projeto, eu absorvo conhecimentos que impulsionam meu trabalho para novos horizontes, sempre colocando qualidade em primeiro lugar.
@@ -7,25 +5,15 @@ Eu soluciono problemas escrevendo códigos, programação é uma aventura e me p
 Estou desenvolvendo projetos com:
 
 <br>
-<p align="center">
-<!-- <p> -->
+
+<div align="center">
   <a href="https://www.linkedin.com/in/franklinrms/">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,git,docker,nodejs,mysql,firebase&theme=dark" />
   </a>
-</p>
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/franklinrms/">
-<!--   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=franklinrms&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/> -->
-<!--    <br> -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=franklinrms&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklinrms&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
-    </a>
 </div>
 
-![Snake animation](https://github.com/franklinrms/franklinrms/blob/output/github-contribution-grid-snake.svg)
-  
-  
+<br>
+
 Se quiser conversar sobre tecnologia você pode me encontrar nos links abaixo:
 
 <br>
@@ -37,3 +25,17 @@ Se quiser conversar sobre tecnologia você pode me encontrar nos links abaixo:
 </div>
 
 <br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/franklinrms/">
+<!--     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=franklinrms&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=0D1117&dates=9D9D9D&fire=1E6BE1&ring=1E6BE1"> -->
+   <br>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=franklinrms&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklinrms&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
+<!--     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franklinrms&theme=github_dark" /> -->
+    </a>
+</div>
+
+![Snake animation](https://github.com/franklinrms/franklinrms/blob/output/github-contribution-grid-snake.svg)
+  
+ <br>

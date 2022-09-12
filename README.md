@@ -8,7 +8,7 @@ Estou desenvolvendo projetos com:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/franklinrms/">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,git,docker,nodejs,mysql,firebase&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,jest,git,docker,nodejs,mysql,mongodb,firebase&theme=dark" />
   </a>
 </div>
 

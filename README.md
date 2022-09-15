@@ -3,7 +3,7 @@
  <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=franklinrms&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
 
 <br>
-Eu soluciono problemas escrevendo códigos, programação é uma aventura e me proporciona muitas descobertas no dia a dia. A cada projeto, eu absorvo conhecimentos que impulsionam meu trabalho para novos horizontes, sempre colocando qualidade em primeiro lugar.
+Eu soluciono problemas escrevendo códigos, programação é uma aventura e me proporciona muitas descobertas no dia a dia. A cada desafio, eu absorvo conhecimentos que impulsionam meu trabalho para novos horizontes, sempre colocando qualidade em primeiro lugar.
 
 <br>
 <br>

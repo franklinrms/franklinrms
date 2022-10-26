@@ -14,7 +14,7 @@ Estou desenvolvendo projetos com:
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/franklinrms/">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,jest,nodejs,py,git,docker,mysql,mongodb&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,jest,nodejs,py,git,aws,docker,mysql,mongodb&theme=dark" />
   </a>
 </div>
 

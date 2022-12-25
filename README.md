@@ -10,7 +10,7 @@ Eu soluciono problemas escrevendo códigos, programação é uma aventura e me p
 <br>
 <br>
 
-Estou desenvolvendo projetos com:
+Algumas tecnologias com as quais tenho trabalhado recentemente:
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/franklinrms/">
@@ -20,7 +20,7 @@ Estou desenvolvendo projetos com:
 
 <br>
 
-Se quiser conversar sobre tecnologia, novas oportunidades e ideias você pode me encontrar nos links abaixo:
+Estou sempre procurando novos desafios e oportunidades para crescer como programador, e estou ansioso para ver o que o futuro me reserva. Se você tiver uma ideia interessante ou um projeto em mente, não hesite em entrar em contato comigo.
 
  <a href="https://www.linkedin.com/in/franklinrms/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23181717.svg?style=for-the-badge&logo=linkedin&logoColor=2396ED&color=0D1117"></a> 
  <a href="mailto:franklinramos@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23181717?style=for-the-badge&logo=microsoft-outlook&logoColor=2396ED&color=0D1117"></a> 

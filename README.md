@@ -9,6 +9,7 @@
 Eu soluciono problemas escrevendo códigos, programação é uma aventura e me proporciona muitas descobertas no dia a dia. A cada desafio, eu absorvo conhecimentos que impulsionam meu trabalho para novos horizontes, sempre colocando qualidade em primeiro lugar.
 
 <br>
+<br>
 
 Algumas tecnologias com as quais tenho trabalhado recentemente:
 

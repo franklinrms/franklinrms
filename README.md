@@ -27,3 +27,5 @@ Estou sempre procurando novos desafios e oportunidades para crescer como program
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=franklinrms&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B&no-bg=true&no-frame=true&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+<!-- ![Status Lelepg](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=franklinrms&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true")  -->

@@ -1,4 +1,4 @@
-### Olá, Eu sou o Franklin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+### Olá, eu sou o Franklin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 <a href="https://github.com/franklinrms">
    <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=franklinrms&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>

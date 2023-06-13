@@ -19,7 +19,7 @@ Algumas tecnologias com as quais tenho trabalhado recentemente:
 
 <br>
 
-Estou sempre procurando novos desafios e oportunidades para crescer como programador, e estou ansioso para ver o que o futuro me reserva. Se você tiver uma ideia interessante ou um projeto em mente, não hesite em entrar em contato comigo.
+Estou sempre procurando novos desafios e oportunidades para crescer como programador, se você tiver uma ideia interessante ou um projeto em mente, não hesite em entrar em contato comigo.
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%23181717.svg?style=for-the-badge&logo=linkedin&logoColor=2396ED&color=0D1117&link=https://www.linkedin.com/in/franklinrms/)](https://www.linkedin.com/in/franklinrms/) 
 [![Email Badge](https://img.shields.io/badge/Email-%23181717?style=for-the-badge&logo=microsoft-outlook&logoColor=2396ED&color=0D1117&link=mailto:franklinramos@outlook.com)](mailto:franklinramos@outlook.com) 

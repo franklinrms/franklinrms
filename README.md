@@ -1,15 +1,17 @@
-### Hi, I'm Franklin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" >
+### Hey there, I'm Franklin <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
 I solve problems by writing code, programming is an adventure and gives me many discoveries daily. With each challenge, I absorb knowledge that drives my work to new horizons, always putting quality first.
 
-#### My current tools 
-🌎 Front-end Web with Reactjs  
-📱 Front-end Mobile with React Native  
-📡 Back-end with Nodejs  
-🛠️ Typescript  
-🧰 And more...  
+**My current tools**
 
-#### Find me elsewhere
+🌎 &nbsp;Front-end Web with Reactjs  
+📱 &nbsp;Front-end Mobile with React Native  
+📡 &nbsp;Back-end with Nodejs  
+🛠️ &nbsp;Typescript  
+🧰 &nbsp;And more...  
+
+**Find me elsewhere**
+
 [![Linkedin Badge](https://img.shields.io/badge/Franklin_Ramos-0078D4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franklinrms/)](https://www.linkedin.com/in/franklinrms/)
 [![Email Badge](https://img.shields.io/badge/franklinramos@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:franklinramos@outlook.com)](mailto:franklinramos@outlook.com)
 

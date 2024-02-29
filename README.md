@@ -14,12 +14,6 @@ I solve problems by writing code, with a keen eye for detail and a passion for i
       <img width="100%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franklinrms&theme=github_dark" />
    </a>
    <br> <br>
-
-
-[![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=franklinrms&theme=github_dark)](https://github.com/franklinrms)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklinrms&layout=compact&theme=github_dark&border_color=2e343b&border_radius=6.0)](https://github.com/franklinrms)
-[![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=franklinrms&theme=github_dark&utcOffset=-3)](https://github.com/franklinrms)
-
 </details>
 
 

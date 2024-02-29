@@ -6,15 +6,15 @@ I solve problems by writing code, with a keen eye for detail and a passion for i
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,graphql,jest,bun,nodejs,express,elysia,prisma,git,docker,aws,cloudflare,mongodb,postgres,redis,figma&theme=dark&perline=20)](https://github.com/franklinrms)
 
-<details>
 
+<!-- <details>
 <summary>⚡️ More about my coding life</summary>
    <br>
    <a href="https://github.com/franklinrms">
       <img width="100%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franklinrms&theme=github_dark" />
    </a>
    <br> <br>
-</details>
+</details> -->
 
 
 

@@ -1,14 +1,28 @@
 ### Hey there, I'm Franklin <a href="https://github.com/franklinrms"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
-<!-- <a href="https://github.com/franklinrms">
-   <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=franklinrms&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-</a> -->
-
 I solve problems by writing code, with a keen eye for detail and a passion for innovation, I'm constantly exploring new technologies and refining my skills. 
 
 **My current tools**
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,graphql,jest,nodejs,express,prisma,git,docker,aws,mongodb,postgres,figma&theme=dark)](https://github.com/franklinrms)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,graphql,jest,bun,nodejs,express,elysia,prisma,git,docker,aws,cloudflare,mongodb,postgres,redis,figma&theme=dark&perline=20)](https://github.com/franklinrms)
+
+<details>
+
+<summary>⚡️ More about my coding life</summary>
+   <br>
+   <a href="https://github.com/franklinrms">
+      <img width="100%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franklinrms&theme=github_dark" />
+   </a>
+   <br> <br>
+
+
+[![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=franklinrms&theme=github_dark)](https://github.com/franklinrms)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklinrms&layout=compact&theme=github_dark&border_color=2e343b&border_radius=6.0)](https://github.com/franklinrms)
+[![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=franklinrms&theme=github_dark&utcOffset=-3)](https://github.com/franklinrms)
+
+</details>
+
+
 
 **Find me elsewhere**
 
@@ -24,7 +38,6 @@ I solve problems by writing code, with a keen eye for detail and a passion for i
 
 <!--  ### Olá, eu sou o Franklin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white
 
 <a href="https://github.com/franklinrms">
    <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=franklinrms&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>

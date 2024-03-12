@@ -13,8 +13,43 @@ I solve problems by writing code, with a keen eye for detail and a passion for i
    <br>
    
    <!--START_SECTION:waka-->
-   
-   <!--END_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 68.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 176 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 20 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+HTML                     22 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  22 mins             █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               12 repos            ████████████░░░░░░░░░░░░░   46.15 % 
+JavaScript               12 repos            ████████████░░░░░░░░░░░░░   46.15 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+
+ Last Updated on 12/03/2024 22:47:44 UTC
+<!--END_SECTION:waka-->
 </details> 
 
 

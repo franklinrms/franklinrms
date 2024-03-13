@@ -13,7 +13,7 @@ I solve problems by writing code, with a keen eye for detail and a passion for i
    <br>
    
    <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
@@ -33,10 +33,14 @@ I solve problems by writing code, with a keen eye for detail and a passion for i
 
 ```text
 💬 Programming Languages: 
-HTML                     22 mins             █████████████████████████   100.00 % 
+TypeScript               1 hr 41 mins        ███████████████░░░░░░░░░░   59.26 % 
+Other                    47 mins             ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+HTML                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+WSL                      2 hrs 28 mins       ██████████████████████░░░   86.85 % 
+Windows                  22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -50,7 +54,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/03/2024 01:34:54 UTC
+ Last Updated on 13/03/2024 12:13:04 UTC
 <!--END_SECTION:waka-->
 </details> 
 

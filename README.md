@@ -19,7 +19,7 @@ I solve problems by writing code, with a keen eye for detail and a passion for i
 
 > 📦 68.8 kB Used in GitHub's Storage 
  > 
-> 🏆 177 Contributions in the Year 2024
+> 🏆 178 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -35,6 +35,9 @@ TypeScript               3 hrs 53 mins       ███████████�
 Other                    51 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
 HTML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
 WSL                      4 hrs 45 mins       ███████████████████████░░   92.69 % 
@@ -52,7 +55,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/03/2024 13:40:04 UTC
+ Last Updated on 15/03/2024 12:28:34 UTC
 <!--END_SECTION:waka-->
 </details> 
 

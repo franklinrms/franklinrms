@@ -31,13 +31,13 @@ I solve problems by writing code, with a keen eye for detail and a passion for i
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -51,7 +51,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/03/2024 12:29:05 UTC
+ Last Updated on 26/03/2024 12:30:08 UTC
 <!--END_SECTION:waka-->
 </details> 
 

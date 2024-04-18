@@ -21,9 +21,9 @@ I solve problems by writing code, with a keen eye for detail and a passion for i
  > 
 > 💼 Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 10 Public Repositories 
  > 
-> 🔑 21 Private Repositories 
+> 🔑 22 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -49,7 +49,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2024 12:30:28 UTC
+ Last Updated on 18/04/2024 12:29:42 UTC
 <!--END_SECTION:waka-->
 </details> 
 

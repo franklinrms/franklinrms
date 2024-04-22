@@ -19,6 +19,8 @@ I solve problems by writing code, with a keen eye for detail and a passion for i
 
 > 📦 69.0 kB Used in GitHub's Storage 
  > 
+> 🏆 236 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -49,7 +51,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2024 12:29:41 UTC
+ Last Updated on 22/04/2024 12:31:49 UTC
 <!--END_SECTION:waka-->
 </details> 
 

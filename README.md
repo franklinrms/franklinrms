@@ -19,6 +19,8 @@ I solve problems by writing code, with a keen eye for detail and a passion for i
 
 > 📦 69.5 kB Used in GitHub's Storage 
  > 
+> 🏆 270 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -29,15 +31,13 @@ I solve problems by writing code, with a keen eye for detail and a passion for i
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 21 mins        ████████████████████████░   95.27 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+TypeScript               0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 25 mins        █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -51,7 +51,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2024 12:29:40 UTC
+ Last Updated on 12/05/2024 12:31:16 UTC
 <!--END_SECTION:waka-->
 </details> 
 

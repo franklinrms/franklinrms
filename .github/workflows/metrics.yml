@@ -1,0 +1,67 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+      
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Update 01 metrics
+        uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: 01-metrics.svg
+          committer_message: "chore: update ${filename}"
+          config_timezone: America/Sao_Paulo
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_order: base.header, base.repositories, base.activity+community, isocalendar, music
+          output_condition: skip-if-only-metadata-changed
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_ignored: >-
+            tex, less, dockerfile, makefile, qmake, lex, cmake, shell, XSLT,
+            gnuplot, vba, tsql, scss, gherkin, vim, vim script, handlebars
+
+      - name: Update 02 metrics
+        uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: 02-metrics.svg
+          committer_message: "chore: update ${filename}"
+          config_timezone: America/Sao_Paulo
+          base: ""
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+
+
+  delete-runs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          retain_days: 2
+          keep_minimum_runs: 2

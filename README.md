@@ -4,72 +4,31 @@ I solve problems by writing code, with a keen eye for detail and a passion for i
 
 **My current tools**
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,graphql,jest,bun,nodejs,express,elysia,prisma,git,docker,aws,cloudflare,mongodb,postgres,redis,figma&theme=dark&perline=20)](https://github.com/franklinrms)
-
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,graphql,jest,bun,nodejs,express,elysia,prisma,git,docker,aws,cloudflare,mongodb,postgres,redis,figma&theme=dark&perline=20)](#)
 
 
 <details>
    <summary>⚡️ More about my coding life</summary>
-   <br>
-   
-   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
+   <br/>  
 
-**🐱 My GitHub Data** 
-
-> 📦 69.5 kB Used in GitHub's Storage 
- > 
-> 🏆 270 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 22 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               14 repos            ████████████░░░░░░░░░░░░░   48.28 % 
-JavaScript               13 repos            ███████████░░░░░░░░░░░░░░   44.83 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-```
-
-
-
-
- Last Updated on 19/05/2024 12:30:34 UTC
-<!--END_SECTION:waka-->
+   <table>
+   <tr>
+   <td valign="top" width="50%">
+         
+   [![Metrics 01](/01-metrics.svg)](#)
+   </td>
+   <td valign="top" width="50%">
+      
+   [![Metrics 02](/02-metrics.svg)](#)
+   </td>
+   </tr></table>
+    
 </details> 
 
-
+---
 
 **Find me elsewhere**
 
-[![Linkedin Badge](https://img.shields.io/badge/Franklin_Ramos-%230077B5.svg?&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/franklinrms/)](https://www.linkedin.com/in/franklinrms/)
-[![Email Badge](https://img.shields.io/badge/franklinramos@outlook.com-0173B7?&style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:franklinramos@outlook.com)](mailto:franklinramos@outlook.com)
-[![Portifolio Badge](https://img.shields.io/website?label=codebyfranklin&up_color=blue&up_message=up&url=https://codebyfranklin.vercel.app/)](https://codebyfranklin.vercel.app/)
-
-
-
-<!-- 
-   [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,jest,nodejs,py,git,aws,docker,mysql,mongodb&theme=dark)](https://github.com/franklinrms)
--->
-
-
-
-
-
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-242938.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/franklinrms/)](https://www.linkedin.com/in/franklinrms/)
+[![Email Badge](https://img.shields.io/badge/franklinramos@outlook.com-242938?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:franklinramos@outlook.com)](mailto:franklinramos@outlook.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-242938.svg?style=for-the-badge&logo=react&logoColor=white&url=https://codebyfranklin.vercel.app/)](https://codebyfranklin.vercel.app/)

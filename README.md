@@ -1,4 +1,4 @@
-### Hey there, I'm Franklin <a href="https://github.com/franklinrms"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
+### Hey there, I'm Franklin <a href="https://github.com/franklinrms/#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
 I solve problems by writing code, with a keen eye for detail and a passion for innovation, I'm constantly exploring new technologies and refining my skills. 
 

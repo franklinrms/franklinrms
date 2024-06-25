@@ -1,6 +1,12 @@
-### Hey there, I'm Franklin <a href="https://github.com/franklinrms/#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
+## Hey there, I'm Franklin <a href="https://github.com/franklinrms/#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
-I solve problems by writing code, with a keen eye for detail and a passion for innovation, I'm constantly exploring new technologies and refining my skills. 
+[![Linkedin Badge](https://img.shields.io/badge/Franklin_Ramos-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/franklinrms/)](https://www.linkedin.com/in/franklinrms/)
+[![Website Badge](https://img.shields.io/badge/codebyfranklin.vercel.app-1C1E24?style=flat&logo=vercel&logoColor=white&lblackttps://www.codebyfranklin.vercel.app/)](https://www.codebyfranklin.vercel.app/)
+[![Outlook Badge](https://img.shields.io/badge/franklinramos@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:franklinramos@outlook.com)](mailto:franklinramos@outlook.com)
+
+
+
+As a software engineer, I thrive on the art of turning complex challenges into elegant solutions. With a keen eye for detail and a passion for innovation, I'm constantly exploring new technologies and refining my skills.
 
 **My current tools**
 
@@ -24,11 +30,3 @@ I solve problems by writing code, with a keen eye for detail and a passion for i
    </tr></table>
     
 </details> 
-
----
-
-**Find me elsewhere**
-
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-242938.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/franklinrms/)](https://www.linkedin.com/in/franklinrms/)
-[![Email Badge](https://img.shields.io/badge/franklinramos@outlook.com-242938?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:franklinramos@outlook.com)](mailto:franklinramos@outlook.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-242938.svg?style=for-the-badge&logo=react&logoColor=white&url=https://codebyfranklin.vercel.app/)](https://codebyfranklin.vercel.app/)

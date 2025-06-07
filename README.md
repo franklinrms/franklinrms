@@ -1,7 +1,12 @@
 ### Hey there, I'm Franklin <a href="https://github.com/franklinrms/#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
-As a software engineer, I solve problems by writing code. With a keen eye for detail and a passion for innovation, I'm constantly exploring new technologies and refining my skills. My specialty is developing **Android and iOS Mobile Apps with React Native**. I also have knowledge with Web development.
+As a software engineer, I solve problems by writing code. With a keen eye for detail and a passion for innovation, I'm constantly exploring new technologies and refining my skills. My specialty is developing full-stack Web development. I also have knowledge of mobile development.
 
+<!--
+My specialty is developing **Android and iOS Mobile Apps with React Native**. I also have knowledge with Web development.
+-->
+
+<!--
 <details>
    <summary>⚡️ More about my coding life</summary>
    <br/>  
@@ -16,9 +21,10 @@ As a software engineer, I solve problems by writing code. With a keen eye for de
       
    [![Metrics 02](/02-metrics.svg)](#)
    </td>
-   </tr></table>
-    
+   </tr>
+   </table>
 </details> 
+-->
 
 ---
 
